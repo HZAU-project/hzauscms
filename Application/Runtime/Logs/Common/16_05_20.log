@@ -1,0 +1,30 @@
+[ 2016-05-20T20:29:05+08:00 ] ::1 /hzauscms/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-20T20:29:17+08:00 ] ::1 /hzauscms/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-20T20:29:35+08:00 ] ::1 /hzauscms/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-20T20:32:44+08:00 ] ::1 /hzauscms/index.php/logo.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载模块:Logo
+
+[ 2016-05-20T20:32:44+08:00 ] ::1 /hzauscms/index.php/logo.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Logo
+
